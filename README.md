@@ -1,7 +1,7 @@
 ---
 services: cognitive-services,bing-web-search, computer-vision 
 platforms: csharp, xamarin
-author: t-jolanz
+author: Aristoddle
 ---
 
 # Visual Search App with Cognitive Services
